@@ -1,0 +1,41 @@
+<html>
+    <body>
+        <nav>
+            <ul>
+                <li>
+          <a href="profile.html">home</a>
+
+        <a href="about.html">about</a>
+
+        <a href="contact.html">contact</a>
+        </li>
+        </ul>
+        </nav>
+       <h1>introduction</h1> 
+       <p>here will discuss about the tiger in detail</p>
+       <br>
+       <img src="th(25).jpg">
+    </br>
+    <button>read more</button>
+
+    </body>
+</html>
+
+
+     <nav>
+        <ul>
+            <li>
+                <a href="home.html">home</a>
+    
+                <a href="about.html">about</a>
+    
+                <a href="contact.html">contact</a>
+            </li>
+        </ul>
+    </nav>
+    <h3>contact us</h3>
+    <iframe width="700" height="400" src="word-map.jpg"></iframe>
+    <p> phone number:+25559653059</p>
+    <p>email:Catherinecharlesfesto@gmail.com</p>
+
+
